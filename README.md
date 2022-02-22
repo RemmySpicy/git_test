@@ -1,2 +1,2 @@
 # git_test
-My first test repository
+My first GitHub test repository
